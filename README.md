@@ -1,1 +1,3 @@
--eInitialisation du fichier
+Initialisation du fichier
+
+Ajout d'informations
